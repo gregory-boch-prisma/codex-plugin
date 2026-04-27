@@ -4,6 +4,18 @@ This repo exposes a Prisma Codex plugin through `.agents/plugins/marketplace.jso
 
 ## Install
 
+Requires Codex CLI `0.125.0` or newer.
+
+```bash
+codex --version
+```
+
+If your Codex CLI does not show the `plugin` command, update it first:
+
+```bash
+bun add -g @openai/codex@latest
+```
+
 After this repo is published to GitHub, users can add the marketplace:
 
 ```bash
