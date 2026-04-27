@@ -42,8 +42,8 @@
       "Use Prisma MCP to inspect my schema and plan a migration"
     ],
     "brandColor": "#0C344B",
-    "composerIcon": "./assets/Prisma-DarkSymbol.svg",
-    "logo": "./assets/Prisma-DarkLogo.svg",
+    "composerIcon": "./assets/prisma-icon.svg",
+    "logo": "./assets/prisma-icon.svg",
     "screenshots": []
   }
 }
