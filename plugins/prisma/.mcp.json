@@ -1,18 +1,9 @@
 {
   "mcpServers": {
-    "prisma-remote": {
+    "prisma": {
       "type": "http",
       "url": "https://mcp.prisma.io/mcp",
       "note": "Official remote Prisma MCP server for Prisma Postgres account and database workflows. It authenticates with Prisma Console on first use."
-    },
-    "prisma-local": {
-      "command": "npx",
-      "args": [
-        "-y",
-        "prisma",
-        "mcp"
-      ],
-      "note": "Official local Prisma MCP server for project-aware schema, migration, and Prisma Studio workflows. It should run from the target Prisma project directory."
     }
   }
 }
