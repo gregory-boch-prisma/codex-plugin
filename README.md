@@ -46,7 +46,7 @@ The plugin lives at `plugins/prisma` and bundles:
 - Database setup guidance
 - Prisma Postgres guidance
 - Prisma ORM v7 upgrade guidance
-- Prisma remote and local MCP server config
+- Prisma remote MCP server config
 
 ## Local testing
 
